@@ -93,7 +93,8 @@
 
 .navbar .navbar-nav .nav-link {
     padding: 20px 15px;
-    color: var(--dark);
+/*     color: var(--dark); */
+    color:black;
     font-size: 18px;
     font-weight: 600;
     outline: none;
